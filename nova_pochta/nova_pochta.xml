@@ -8,16 +8,12 @@
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
     <version>4.0.8</version>
     <description>PLG shipment Nova Pochta</description>
-
     <files>
-
         <folder>css</folder>
         <folder>elements</folder>
         <folder>Images</folder>
-
         <folder>language</folder>
         <folder>nova_pochta</folder>
-
         <filename plugin="nova_pochta">index.html</filename>
         <filename plugin="nova_pochta">nova_pochta.php</filename>
         <filename plugin="nova_pochta">script.php</filename>
